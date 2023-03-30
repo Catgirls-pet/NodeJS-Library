@@ -1,0 +1,25 @@
+{
+  "name": "baka-ink",
+  "description": "A simple NodeJS library to interact with the Baka.ink API.",
+  "version": "1.0.0",
+  "homepage": "https://baka.ink",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baka-ink/NodeJS-Library.git"
+  },
+  "author": "Amelia",
+  "maintainers": [
+    "Amelia"
+  ],
+  "contributors": [
+    "Amelia"
+  ],
+  "keywords": [
+    "baka.ink"
+  ],
+  "main": "lib/index.js",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
