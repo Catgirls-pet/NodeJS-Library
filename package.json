@@ -19,6 +19,9 @@
     "baka.ink"
   ],
   "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "request": "^2.88.2"
   }
