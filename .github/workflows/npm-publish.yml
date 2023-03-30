@@ -4,8 +4,7 @@
 name: baka-ink
 
 on:
-  release:
-    types: [workflow_dispatch]
+  workflow_dispatch:
 
 jobs:
   build:
