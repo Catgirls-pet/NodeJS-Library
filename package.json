@@ -1,12 +1,12 @@
 {
-  "name": "baka-ink",
-  "description": "A simple NodeJS library to interact with the Baka.ink API.",
+  "name": "catgirls-pet",
+  "description": "A simple NodeJS library to interact with the Catgirls.pet API.",
   "version": "1.0.0",
-  "homepage": "https://baka.ink",
+  "homepage": "https://catgirls.pet",
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Baka-ink/NodeJS-Library.git"
+    "url": "git+https://github.com/Catgirls-pet/NodeJS-Library.git"
   },
   "author": "Amelia",
   "maintainers": [

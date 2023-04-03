@@ -1,11 +1,11 @@
-# Baka.ink
-A simple NodeJS library to interact with the Baka.ink API.
+# Catgirls.pet
+A simple NodeJS library to interact with the Catgirls.pet API.
 
 ## Uploading
 ```javascript
-const Baka = require('baka-ink');
+const CGP = require('catgirls-pet');
 
-const request = await Baka.postAsync('./file.ext');
+const request = await CGP.postAsync('./file.ext');
 ```
 
 This will return the following in JSON format:
@@ -14,7 +14,7 @@ This will return the following in JSON format:
   "status": 200,
   "data": {
     "code": "FILE_CODE",
-    "link": "https://baka.ink/FILE_CODE"
+    "link": "https://catgirls.pet/FILE_CODE"
   }
 }
 ```
