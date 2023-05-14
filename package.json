@@ -1,7 +1,7 @@
 {
   "name": "catgirls-pet",
   "description": "A simple NodeJS library to interact with the Catgirls.pet API.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://catgirls.pet",
   "license": "GPL-3.0",
   "repository": {
