@@ -42,7 +42,13 @@ This will return the following in JSON format:
       "size": {
         "bytes": 315178,
         "readable": "307.79 KB"
-      }
+      },
+      "contentType": "image/png",
+      "uploadedAt": {
+        "milliseconds": 1684027639856,
+        "readable": "Sun May 14 2023 01:27:19 GMT+0000 (Greenwich Mean Time)"
+      },
+      "md5": "error"
     }
   }
 }
